@@ -7,9 +7,10 @@ Una aplicación web simple e interactiva para organizar un sorteo de amigo secre
 
 Este proyecto fue creado como un ejercicio para fortalecer la lógica de programación y la manipulación del DOM usando JavaScript, HTML y CSS puros.
 
-## 🖥️ Demo
+## 🌐 Demo en línea
 
-![Captura del proyecto](assets/amigo-secreto.png)
+Accedé al proyecto funcionando en:  
+[https://Monter89.github.io/amigo-secreto/](https://Monter89.github.io/amigo-secreto/)
 
 ## 🚀 Funcionalidades
 
