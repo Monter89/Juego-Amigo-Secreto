@@ -1,5 +1,4 @@
 
-[README (1).md](https://github.com/user-attachments/files/21669025/README.1.md)
 # 🎁 Amigo Secreto
 
 Una aplicación web simple e interactiva para organizar un sorteo de amigo secreto. Permite ingresar nombres y seleccionar aleatoriamente uno de los participantes.
