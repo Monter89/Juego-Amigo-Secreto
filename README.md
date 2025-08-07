@@ -1,9 +1,9 @@
 # 🎁 Amigo Secreto
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Monter89/amigo-secreto)
-![GitHub last commit](https://img.shields.io/github/last-commit/Monter89/amigo-secreto)
-![GitHub language count](https://img.shields.io/github/languages/count/Monter89/amigo-secreto)
-![GitHub top language](https://img.shields.io/github/languages/top/Monter89/amigo-secreto)
+![GitHub repo size](https://img.shields.io/github/repo-size/Monter89/Juego-Amigo-Secreto)
+![GitHub last commit](https://img.shields.io/github/last-commit/Monter89/Juego-Amigo-Secreto)
+![GitHub language count](https://img.shields.io/github/languages/count/Monter89/Juego-Amigo-Secreto)
+![GitHub top language](https://img.shields.io/github/languages/top/Monter89/Juego-Amigo-Secreto)
 
 Una aplicación web simple y divertida para organizar sorteos de amigo secreto. Ingresás nombres, hacés clic en **"Sortear"** y listo.
 
