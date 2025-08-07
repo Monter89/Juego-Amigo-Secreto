@@ -1,29 +1,40 @@
-
 # 🎁 Amigo Secreto
 
-Una aplicación web simple e interactiva para organizar un sorteo de amigo secreto. Permite ingresar nombres y seleccionar aleatoriamente uno de los participantes.
+![GitHub repo size](https://img.shields.io/github/repo-size/Monter89/amigo-secreto)
+![GitHub last commit](https://img.shields.io/github/last-commit/Monter89/amigo-secreto)
+![GitHub language count](https://img.shields.io/github/languages/count/Monter89/amigo-secreto)
+![GitHub top language](https://img.shields.io/github/languages/top/Monter89/amigo-secreto)
+
+Una aplicación web simple y divertida para organizar sorteos de amigo secreto. Ingresás nombres, hacés clic en **"Sortear"** y listo.
 
 ## 🧠 Objetivo
 
 Este proyecto fue creado como un ejercicio para fortalecer la lógica de programación y la manipulación del DOM usando JavaScript, HTML y CSS puros.
 
+---
+
 ## 🌐 Demo en línea
 
-Accedé al proyecto funcionando en:  
-[https://Monter89.github.io/amigo-secreto/](https://Monter89.github.io/amigo-secreto/)
+👉 **[Ver en vivo](https://Monter89.github.io/amigo-secreto/)** 👈
 
-## 🚀 Funcionalidades
+---
 
-- Añadir nombres de amigos a una lista.
-- Visualizar los amigos agregados.
-- Sortear aleatoriamente un "amigo secreto".
-- Interfaz clara, responsiva y atractiva.
+## ✨ Funcionalidades
+
+- 🧑‍🤝‍🧑 Añadir nombres de amigos/as
+- 🎲 Sortear aleatoriamente un amigo secreto
+- 🧹 Interfaz simple, clara y responsive
+- ⚡ Instantáneo, sin recarga ni base de datos
+
+---
 
 ## 🛠️ Tecnologías utilizadas
 
-- HTML5
-- CSS3
-- JavaScript (vanilla)
+- **HTML5**
+- **CSS3**
+- **JavaScript Vanilla**
+
+---
 
 ## 📂 Estructura del proyecto
 
@@ -36,29 +47,34 @@ Accedé al proyecto funcionando en:
 │   └── play_circle_outline.png # Icono de botón
 ```
 
-## ▶️ Cómo usar
-
-1. Cloná o descargá este repositorio.
-2. Abrí el archivo `index.html` en tu navegador.
-3. Ingresá los nombres de los participantes.
-4. Presioná "Añadir" para agregarlos a la lista.
-5. Hacé clic en "Sortear amigo" para seleccionar un amigo secreto al azar.
-
-## 👤 Autor
-
-- **Gaston Montero** 
-
-## 📝 Licencia
-
-Este proyecto está disponible bajo la licencia MIT. Libre para uso educativo y personal.
-
 ---
-
-¡Suerte con tu amigo secreto! 🎉
-
 
 ## 🧰 Herramientas de desarrollo
 
-- [Visual Studio Code](https://code.visualstudio.com/) – Editor de código fuente
-- [Git](https://git-scm.com/) – Control de versiones
-- [GitHub](https://github.com/) – Almacenamiento y colaboración en el código
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Git](https://git-scm.com/)
+- [GitHub](https://github.com/)
+- [GitHub Pages](https://pages.github.com/)
+
+---
+
+## 📸 Captura de pantalla
+
+![Captura del proyecto](assets/captura.png)
+
+---
+
+## 👨‍💻 Autor
+
+**[@Monter89](https://github.com/Monter89)**
+
+---
+
+## 📄 Licencia
+
+Este proyecto está bajo la licencia MIT.  
+Usalo, modificalo y compartilo libremente 🚀
+
+---
+
+> Hecho con ❤️ y JavaScript.
